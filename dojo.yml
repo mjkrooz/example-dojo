@@ -8,9 +8,6 @@ description: |
 
 type: example
 
-award:
-  emoji: 😀
-
 modules:
 
   - id: hello
